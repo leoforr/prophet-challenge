@@ -39,3 +39,29 @@ The project consists of the following main steps:
 ## Installation
 
 1. Install the required libraries:
+
+ ## Usage
+
+1. Run the Jupyter Notebook containing the code for each step.
+2. Follow the comments and instructions within the notebook to execute the analysis.
+3. Analyze the generated plots and results to answer the questions posed in each section.
+
+## Findings
+
+- The analysis reveals that search traffic for MercadoLibre exhibits predictable patterns based on time of day, day of the week, and time of year.
+- There is a potential correlation between lagged search traffic and stock volatility or stock price returns, indicating a possible relationship between search interest and financial performance.
+- The Prophet model forecasts a general increase in search traffic for MercadoLibre in the near term, with some seasonal fluctuations.
+
+## Future Work
+
+- Further investigation into the relationship between search traffic and financial events.
+- Refinement of the time series model to improve forecast accuracy.
+- Incorporating external factors and data sources to enhance the analysis.
+
+## Contributing
+
+Contributions to this project are welcome. Please feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
